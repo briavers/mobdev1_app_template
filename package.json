@@ -1,21 +1,21 @@
 {
   "name": "apptemplate",
   "version": "1.0.0",
-  "description": "APP teplate\r ============",
+  "description": "App Template\r ============",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/briavers/mobdev1_app_template.git"
+    "url": "git+https://github.com/drdynscript/mobdev1-apptemplate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/briavers/mobdev1_app_template/issues"
+    "url": "https://github.com/drdynscript/mobdev1-apptemplate/issues"
   },
-  "homepage": "https://github.com/briavers/mobdev1_app_template#readme",
+  "homepage": "https://github.com/drdynscript/mobdev1-apptemplate#readme",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "del": "^3.0.0",
@@ -23,5 +23,6 @@
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^3.1.0",
     "gulp-watch": "^4.3.11"
-  }
+  },
+  "dependencies": {}
 }
